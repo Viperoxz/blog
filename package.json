@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Viperoxz/blog/issues"
   },
-  "homepage": "https://github.com/Viperoxz/blog#readme",
+  "homepage": "https://github.com/Viperoxz/blog",
   "dependencies": {
     "express": "^4.18.2"
   },
